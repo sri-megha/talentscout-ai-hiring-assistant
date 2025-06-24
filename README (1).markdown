@@ -144,7 +144,3 @@ Prompts are crafted to achieve two primary objectives:
 - The chatbot uses simulated data and does not persist any information, aligning with GDPR-compliant practices.
 - For a live demo, a video walkthrough can be provided via a tool like Loom (not included in this submission).
 
-## Contact
-For any questions or feedback, please reach out via the Career Portal submission or email (provided during screening).
-
-Thank you for reviewing my submission!
